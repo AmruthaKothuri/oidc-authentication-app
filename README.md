@@ -1,10 +1,13 @@
-Getting Started
-Prerequisites
+
 Ensure you have the following installed:
 
+
 Node.js (v16 or higher recommended)
+
 npm or yarn
+
 Auth0 account for authentication setup
+
 Installation
 Clone the Repository:
 
