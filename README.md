@@ -40,8 +40,10 @@ Update the .env file: Create a .env file in the root directory and add the follo
 
 
 REACT_APP_AUTH0_DOMAIN=your-auth0-domain
+
 REACT_APP_AUTH0_CLIENT_ID=your-auth0-client-id
-REACT_APP_AUTH0_AUDIENCE=your-api-audience
+
+
 Replace your-auth0-domain, your-auth0-client-id, and your-api-audience with values from your Auth0 application.
 
 Running the Project
